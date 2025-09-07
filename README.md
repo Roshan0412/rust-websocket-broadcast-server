@@ -123,4 +123,4 @@ For questions, feedback, or contributions, feel free to reach out:
 
 * **Developer:** Roshan Jha
 * **Email:** [roshanjha.work@gmail.com](mailto:roshanjha.work@gmail.com)
-* **GitHub:** [roshan.jha0125](https://github.com/Roshan0412)
+* **GitHub:** [Roshan0412](https://github.com/Roshan0412)
